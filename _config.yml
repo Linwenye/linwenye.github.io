@@ -2,10 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+title: Wenye Lin # the website title (if blank, full name will be used instead)
+first_name: Wenye
+middle_name:
+last_name: Lin
+email: linius@connect.hku.hk
+
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
